@@ -76,4 +76,4 @@ src/
 ## Results of tests 
 
 ![Test Results part1](src/main/java/com/fawry/Assets/test1.jpg)
-![Test Results part1](/src/main/java/com/fawry/Assets/test1.jpg)
+![Test Results part1](/src/main/java/com/fawry/Assets/test2.jpg)
