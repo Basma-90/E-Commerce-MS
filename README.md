@@ -1,4 +1,4 @@
-# Fawry E-commerce Checkout System
+# E-commerce Checkout System
 
 This project simulates a checkout system for an e-commerce platform, developed as part of the Fawry Rise Internship Challenge.
 
@@ -76,4 +76,4 @@ src/
 ## Results of tests 
 
 ![Test Results part1](src/main/java/com/fawry/Assets/test1.jpg)
-![Test Results part1](src/main/java/com/fawry/Assets/test2.jpg)
+![Test Results part1](/src/main/java/com/fawry/Assets/test1.jpg)
